@@ -92,8 +92,9 @@ h1 {
   font-size: 0.9rem;
   cursor: pointer;
   transition: color 0.2s;
-  padding: 0.5rem 0.25rem;
+  padding: 0.25rem 0.25rem;
   text-align: center;
+  margin: 0.5rem
 }
 
 #players button:hover {
@@ -102,7 +103,7 @@ h1 {
 
 .player {
   border: 2px solid transparent;
-  padding: 0.2rem;
+  padding: 0.1rem;
   border-radius: 4px;
   font-weight: bold;
 }
