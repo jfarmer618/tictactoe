@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/jfarmer618/tictactoe/static/css/main.14a6235f.css",
-    "main.js": "/jfarmer618/tictactoe/static/js/main.1acf9458.js",
-    "static/media/bg-pattern-dark.png": "/jfarmer618/tictactoe/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
-    "index.html": "/jfarmer618/tictactoe/index.html",
-    "main.14a6235f.css.map": "/jfarmer618/tictactoe/static/css/main.14a6235f.css.map",
-    "main.1acf9458.js.map": "/jfarmer618/tictactoe/static/js/main.1acf9458.js.map"
+    "main.css": "/tictactoe/static/css/main.c2fd4630.css",
+    "main.js": "/tictactoe/static/js/main.1acf9458.js",
+    "static/media/bg-pattern-dark.png": "/tictactoe/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
+    "index.html": "/tictactoe/index.html",
+    "main.c2fd4630.css.map": "/tictactoe/static/css/main.c2fd4630.css.map",
+    "main.1acf9458.js.map": "/tictactoe/static/js/main.1acf9458.js.map"
   },
   "entrypoints": [
-    "static/css/main.14a6235f.css",
+    "static/css/main.c2fd4630.css",
     "static/js/main.1acf9458.js"
   ]
 }
