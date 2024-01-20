@@ -70,7 +70,7 @@ h1 {
 #players li {
   display: flex;
   align-items: center;
-  width: 40%;
+  width: 48%;
   border: 2px solid transparent;
 }
 
@@ -94,7 +94,7 @@ h1 {
   transition: color 0.2s;
   padding: 0.25rem 0.25rem;
   text-align: center;
-  margin: 0.5rem
+  margin: .2rem
 }
 
 #players button:hover {
@@ -115,7 +115,7 @@ h1 {
   color: #e1dec7;
   text-transform: uppercase;
   margin: 0;
-  padding: 0.5rem;
+  padding: 0.1rem;
   border-radius: 4px;
   text-overflow: ellipsis;
   text-align: center;
